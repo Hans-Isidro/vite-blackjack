@@ -29,3 +29,7 @@ pasos para ejecutar un proyecto
 1. Ejecutar ```git remote add origin https://github.com/......git``` esto varia dependiendo del proyecto
 2. Ejecutar ```git branch -M main```
 3. Ejecutar ```git push -u origin main``` para subir el proyecto
+
+###### Crear una rama
+1. Ejecutar ```git checkout -b nombre-de-la-rama``` esto crea la rama
+2. Ejecutar ```git checkout [nombre de la rama principal o subrama]``` esto direcciona a la rama principal o la subrama
