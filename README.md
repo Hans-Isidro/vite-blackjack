@@ -33,3 +33,5 @@ pasos para ejecutar un proyecto
 ###### Crear una rama
 1. Ejecutar ```git checkout -b nombre-de-la-rama``` esto crea la rama
 2. Ejecutar ```git checkout [nombre de la rama principal o subrama]``` esto direcciona a la rama principal o la subrama
+3. Ejecutar ```git merge [nombre de la subrama]``` esto es para unir la rama hija ala rama principal
+4. Ejecutar ```git branch -d [nombre de la subrama]``` esto es para eliminar una subrama
