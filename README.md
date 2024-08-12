@@ -22,6 +22,7 @@ pasos para ejecutar un proyecto
 1. Ejecutar ```git init```
 2. Ejecutar ```git add .```
 3. Ejecutar ```git commit -m "primer commit"``` permite tomar una captura
+4. Ejecutar ```git commit -am ""``` esto simplifica el add . y el commit
 4. Ejecutar si es necesario ```git checkout -- .``` permite recuperar archivos o codigos borrados
 
 ##### Desplegar a GitHub
